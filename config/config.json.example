@@ -1,0 +1,7 @@
+{
+    "cpanelAPIKey": "DOMAIN:SOMEKEY",
+    "cpanelHost": "cpanel.yourDOMAIN.com:2083",
+    "defaultForwardersDomain": "domain1.com",
+    "yourRealEmail":"niceperson@domain1.com",
+    "domains": ["domain1.com", "domain2.com"]
+}
