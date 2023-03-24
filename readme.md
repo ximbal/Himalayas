@@ -1,4 +1,4 @@
-# Email Alias (pronounced: Himalayas)
+# Himalayas: An email alias manager for Cpanel (Create Aliases from Anywhere!)
 
 ## Why?
 
@@ -55,3 +55,10 @@ Then
 
 Drag and drop to your Applications folder
 ```
+
+I have cross compiled and created a Fyne Android App for my mobile phone.
+
+Please refer to Fyne's Guide on packaging the App for Mobile.
+
+https://developer.fyne.io/started/mobile
+
